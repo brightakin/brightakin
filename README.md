@@ -11,7 +11,7 @@
 
 ## :handshake:   Let's Connect
 
-- LinkedIn: [linkedin.com/in/brightakinkuotu-](https://www.linkedin.com/in/brightakinkuotu/)
+- LinkedIn: [linkedin.com/in/brightakinkuotu](https://www.linkedin.com/in/brightakinkuotu/)
 - Mail: akinkuotubright@gmail.com
 
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=brightakin&layout=compact" alt="brightakin" />
