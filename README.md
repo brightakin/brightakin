@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **akinkuotubright@gmail.com**
 
-- 🎮 In my spare time, I'm ranking in **watching football⚽**
+- 🎮 In my spare time, I'm **watching football⚽**
 
 ## :handshake:   Let's Connect
 
