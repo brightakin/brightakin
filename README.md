@@ -9,7 +9,7 @@
 
 - 🎮 In my spare time, I'm **watching football⚽**
 
-## :handshake:   Let's Connect
+## :handshake:   Let's Connect my friends
 
 - LinkedIn: [linkedin.com/in/brightakinkuotu](https://www.linkedin.com/in/brightakinkuotu/)
 - Mail: akinkuotubright@gmail.com
