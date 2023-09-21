@@ -1,9 +1,6 @@
 ![Bright's Github Banner](https://res.cloudinary.com/dmprj9s0q/image/upload/v1659970860/Github/petdog_wifne4.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Serif&size=24&duration=4000&color=F75412&left=true&vCenter=true&width=1000&height=50&lines=Hi+there%2C+%F0%9F%91%8B;Bright+here)](https://git.io/typing-svg)
-<h3 align="left">A detailed and goal-oriented builder using software development to create beautiful things.</h3>
-
-- 👌 I’m currently working with **Mustard.ng**
+<h3 align="left">A detailed and goal-oriented builder using software development to create impactful solutions.</h3>
 
 - 📫 How to reach me **akinkuotubright@gmail.com**
 
