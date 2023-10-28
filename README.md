@@ -6,7 +6,7 @@ Software Engineer
 
 Crafting cutting-edge, intuitive websites and applications is a genuine passion, complemented by my continuous pursuit of emerging technologies and a keen awareness of industry trends and innovations.
 
-*   🌍  I'm based in Lagos, Nigeria
+*   🌍  I'm based in Abuja, Nigeria
 *   ✉️  You can contact me at [akinkuotubright@gmail.com](mailto:akinkuotubright@gmail.com)
 *   🚀  I'm currently working on [Afrihealth](https://www.afri-health.com)
 *   🧠  I'm learning about AI and ML
