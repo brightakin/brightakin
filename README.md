@@ -10,7 +10,7 @@ Crafting cutting-edge, intuitive websites and applications is a genuine passion,
 *   ✉️  You can contact me at [akinkuotubright@gmail.com](mailto:akinkuotubright@gmail.com)
 *   🚀  I'm currently working on [Afrihealth](https://www.afri-health.com)
 *   🧠  I'm learning about AI and ML
-*   🤝  I'm open to collaborating on interesting projects especiallty blockchain projects### Skills 
+*   🤝  I'm open to collaborating on interesting projects especially blockchain projects### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
