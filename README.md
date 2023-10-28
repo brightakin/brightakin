@@ -8,7 +8,7 @@ Crafting cutting-edge, intuitive websites and applications is a genuine passion,
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [akinkuotubright@gmail.com](mailto:akinkuotubright@gmail.com)
-*   🚀  I'm currently working on [Afrihealth](https://afrihealth.com)
+*   🚀  I'm currently working on [Afrihealth](https://www.afri-health.com)
 *   🧠  I'm learning about AI and ML
 *   🤝  I'm open to collaborating on interesting projects especiallty blockchain projects### Skills 
 <p align="left">
