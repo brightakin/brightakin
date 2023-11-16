@@ -12,7 +12,7 @@ Crafting cutting-edge, intuitive websites and applications is a genuine passion,
 *   🧠  I'm learning about AI and ML
 *   🤝  I'm open to collaborating on interesting projects especially blockchain projects.
 *
-*     Skills 
+Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -33,15 +33,16 @@ Crafting cutting-edge, intuitive websites and applications is a genuine passion,
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+Socials
  <p align="left">
  <a href="https://www.github.com/brightakin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/brightakinkuotu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/brightakinkuotu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   </p>
- ### Badges<b>My GitHub Stats</b>
+  
+Badges<b>My GitHub Stats</b>
  </br>
- <a href="http://www.github.com/brightakin"><img src="https://github-readme-stats.vercel.app/api?username=brightakin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tryrone's GitHub stats" /></a><a
+ <a href="http://www.github.com/brightakin"><img src="https://github-readme-stats.vercel.app/api?username=brightakin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="brightakin's GitHub stats" /></a><a
  href="http://www.github.com/brightakin"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=brightakin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
 href="http://www.github.com/brightakin"><img src="https://activity-graph.herokuapp.com/graph?username=brightakin&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/brightakin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightakin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
