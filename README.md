@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -------------------
 
-Crafting cutting-edge, intuitive websites and applications is a genuine passion, complemented by my continuous pursuit of emerging technologies and a keen awareness of industry trends and innovations.
+Crafting cutting-edge, intuitive websites and applications that make real impact on people's life is my genuine passion, complemented by my continuous pursuit of emerging technologies and a keen awareness of industry trends, innovations and best practises.
 
 *   🌍  I'm based in Abuja, Nigeria
 *   ✉️  You can contact me at [akinkuotubright@gmail.com](mailto:akinkuotubright@gmail.com)
