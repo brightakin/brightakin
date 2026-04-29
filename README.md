@@ -1,4 +1,3 @@
-````markdown name=README.md
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Bright%20Toluwase%20Akinkuotu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Blockchain%20Enthusiast&descAlignY=55&descAlign=50" />
 </div>
@@ -163,4 +162,3 @@ open_to: Interesting projects, especially blockchain projects
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" />
 </div>
-````
